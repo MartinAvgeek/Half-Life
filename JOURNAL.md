@@ -24,16 +24,17 @@
 
 October 6
 
-Today my friend and I officially began work on our project. We opened a fresh PCB design sheet and started planning from scratch. Before choosing any parts, we did some research so we would understand what we were building. We watched videos on how macro boards are designed and how gaming steering wheels work, which helped us see how the buttons, the sensor, and the controller fit together in a small device.
+Project: compact steering wheel controller on a fresh PCB design sheet.
 
 ![WhatsApp Image 2026-10-06 at 8.06.50 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/u0103wbSEN3xOK73BmEgBI8WAwWAxNVx/c3f4787c524e7d0463bc1abe471abaff1b6ed6926b0a0a9808a7d5b0db64d4a0.jpeg)
 
-After the research, we picked the components for the project. The controller is a Raspberry Pi Pico H, and an I2C OLED screen will show information on the wheel. For the controls, we chose three Cherry mechanical tactile switches, and the pedals will be two 6x6 mm 4-pin push buttons, one for gas and one for braking. To measure the steering, we chose an AS5600 magnetic sensor.
-
+Key decision: we chose the AS5600 magnetic sensor over a potentiometer for steering. It reads angle without physical contact, so there's no wear, no scratchy spots, and the output stays smooth. A pot degrades with constant use, and the wheel gets turned constantly, so the magnetic sensor was the better engineering call.
 ![WhatsApp Image 2026-10-06 at 8.06.54 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/u0103wbSEN3xOK73BmEgBI8WAwWAxNVx/fb18b996797a95b86022af8d1566e0af07d7c8d73584007647b80024c297557e.jpeg)
 
-The biggest decision of the session came during brainstorming, when we chose a magnetic sensor for the steering wheel instead of a potentiometer. A magnetic sensor reads the wheel's position without physical contact, so nothing wears out from constant turning and the readings stay smooth. That made it the better fit for a part that will be turned all the time.
+Progress...
 
 ![WhatsApp Image 2026-10-06 at 8.40.00 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/u0103wbSEN3xOK73BmEgBI8WAwWAxNVx/71ec63c786833a8def3419636a9f52b144554a3ebd1c0170d895333d13f7c1ef.jpeg)
 
-Overall, it was a productive first session. We now have a clear idea of what we're building, the components to build it with, and a reason behind our main design choice.
+Research: we watched videos on macro board design and gaming steering wheels to scope the build before choosing parts.
+
+Status: requirements defined, hardware chosen, main design decision made. Nothing built or tested yet.
