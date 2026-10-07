@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2.5h | 1 |
+| Week 1 | Tier 1 | 3h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-06 — October 6
 
-**2.5h**
+**3h**
 
 October 6
 
