@@ -16,7 +16,7 @@
 | [AS5600 magnetic sensor module](https://a.co/d/02qxb3nK) | Measures steering wheel angle | 1 | $7.99 | $7.99 | [Amazon](https://a.co/d/02qxb3nK) |
 | [0.96" I2C OLED (SSD1306)](https://a.co/d/05S6Hf5X) | wheel status display | 1 | $8.49 | $8.49 | [Amazon](https://a.co/d/05S6Hf5X) |
 | **Parts subtotal** | — | — | — | **$28.48** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$28.48** | — |
+| **Tax & shipping** | — | — | — | **$30.17** | — |
+| **Total** | — | — | — | **$58.65** | — |
 
-$1.52 left of the tier's funding.
+**$28.65 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
