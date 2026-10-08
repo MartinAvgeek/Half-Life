@@ -57,3 +57,9 @@ After getting done with the blueprint, we began designing the PCB schematic, and
 This is how the  PCB 3D model looks like right now, and the cool logo we designed.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/u0103wbSEN3xOK73BmEgBI8WAwWAxNVx/6752b9bb7d3ec0dd95b88d77cc41f660df3fad7c43f88b465cb7d89978888d30.png)
+
+And finally started working on the design for the shaft and magnetic sensor system.
+
+![WhatsApp Image 2026-10-07 at 9.33.06 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/u0103wbSEN3xOK73BmEgBI8WAwWAxNVx/962636d585471f3ac52d78623ff2ad4d8db77a1576ec2670c928325d326a8d6c.jpg)
+
+:)
