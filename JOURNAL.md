@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.6h | 2 |
+| Week 1 | Tier 1 | 5h | 2 |
 
 ## Contents
 
@@ -42,7 +42,7 @@ Status: requirements defined, hardware chosen, main design decision made. Nothin
 
 ### 2026-10-07 – October 7th,
 
-**1.6h**
+**2h**
 
 October 7th,
 
